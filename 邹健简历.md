@@ -53,7 +53,7 @@
 - C++后台开发（linux）
 - React和React Native（web或APP开发）
 - Nodejs（阿里egg后台框架）（腾讯RPC框架）
-- Kotlin和Java（腾讯RPC框架）
+- Kotlin和Java（腾讯RPC框架，Spring boot）
 - Python（游戏后台开发）
 
 
